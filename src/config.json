@@ -8,6 +8,6 @@
   "reactionFeedbackFail" : "🥺",
   "playVoiceWhenMute" : true,
   "playVoiceWhenUnMute" : false,
-  "textMessageMute" : "Shut the fuck up !",
-  "textMessageUnMute" : "Now you can talk bitches !"
+  "textMessageMute" : "Game Telah Bermula! Shhh",
+  "textMessageUnMute" : "It's Meeting Time"
 }
